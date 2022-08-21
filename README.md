@@ -17,7 +17,7 @@
   <img align="center" alt="Vic-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Vic-Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" />
   <img align="center" alt="Vic-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="right" alt="Vic-pic" height="150" style="border-radius:50px;" src="https://github.com/vicnuel/vicnuel/blob/main/MG_20220716_102154_769.jpg">
+  <img align="right" alt="Vic-pic" height="150" style="border-radius:50px;" src="https://github.com/vicnuel/vicnuel/blob/main/avatar.png">
 </div>
   
   ##
