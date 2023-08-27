@@ -3,7 +3,7 @@
     "pagamentos": {
         "folhadaregiao": true,
         "goodimage": true,
-        "virtualnetelecom": true
+        "virtualnetelecom": false
     },
     "mensagem": "testes",
     "mensagem_alternativa": "teste"
