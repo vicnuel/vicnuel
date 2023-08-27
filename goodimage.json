@@ -1,8 +1,8 @@
 {
     "client": "Good Image",
     "pagamentos": {
-        "folhadaregiao": true,
+        "folhadaregiao": false,
         "goodimage": true
     },
-    "mensagem": "Testes"
+    "mensagem": "testes"
 }
