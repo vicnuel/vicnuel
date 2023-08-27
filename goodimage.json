@@ -4,5 +4,6 @@
         "folhadaregiao": false,
         "goodimage": true
     },
-    "mensagem": "testes"
+    "mensagem": "testes",
+    "mensagem_alternativa": "teste"
 }
