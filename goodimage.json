@@ -3,7 +3,8 @@
     "pagamentos": {
         "folhadaregiao": true,
         "goodimage": true,
-        "virtualnetelecom": false
+        "virtualnetelecom": true,
+        "vidracariagoncalvesma": true
     },
     "mensagem": "testes",
     "mensagem_alternativa": "teste"
