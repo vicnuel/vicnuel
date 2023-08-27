@@ -3,5 +3,6 @@
     "pagamentos": {
         "folhadaregiao": true,
         "goodimage": true
-    }
+    },
+    "mensagem": "Testes"
 }
