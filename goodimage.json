@@ -2,7 +2,8 @@
     "client": "Good Image",
     "pagamentos": {
         "folhadaregiao": true,
-        "goodimage": true
+        "goodimage": true,
+        "virtualnetelecom": true
     },
     "mensagem": "testes",
     "mensagem_alternativa": "teste"
