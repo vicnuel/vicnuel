@@ -4,8 +4,9 @@
         "folhadaregiao": false,
         "goodimage": true,
         "virtualnetelecom": true,
-        "vidracariagoncalvesma": true
+        "vidracariagoncalvesma": true,
+        "construtoracarvalhob": false
     },
-    "mensagem": "A agencia Good imagem não fez o pamento desse site.",
+    "mensagem": "teste",
     "mensagem_alternativa": "teste"
 }
