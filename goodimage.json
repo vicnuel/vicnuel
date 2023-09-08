@@ -1,11 +1,11 @@
 {
     "client": "Good Image",
     "pagamentos": {
-        "folhadaregiao": true,
+        "folhadaregiao": false,
         "goodimage": true,
         "virtualnetelecom": true,
         "vidracariagoncalvesma": true
     },
-    "mensagem": "testes",
+    "mensagem": "A agencia Good imagem não fez o pamento desse site.",
     "mensagem_alternativa": "teste"
 }
