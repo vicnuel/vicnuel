@@ -1,7 +1,7 @@
 {
     "client": "Gold Image",
     "pagamentos": {
-        "folhadaregiao": true,
+        "folhadaregiao": false,
         "goodimage": true,
         "virtualnetelecom": true,
         "vidracariagoncalvesma": true,
