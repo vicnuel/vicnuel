@@ -1,11 +1,12 @@
 {
-    "client": "Good Image",
+    "client": "Gold Image",
     "pagamentos": {
         "folhadaregiao": true,
         "goodimage": true,
         "virtualnetelecom": true,
         "vidracariagoncalvesma": true,
-        "construtoracarvalhob": true
+        "construtoracarvalhob": true,
+        "executiva": true
     },
     "mensagem": "teste",
     "mensagem_alternativa": "teste"
