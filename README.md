@@ -31,3 +31,23 @@
   ![Snake animation](https://github.com/vicnuel/vicnuel/blob/output/github-contribution-grid-snake-dark.svg)
  
 </div>
+
+
+## Projetos
+
+### Next.JS, Typescript e NodeJS
+  - Magnect - Sistema de Prospecção
+  - Personas - CRM de candidatos e funcionários
+
+### React Native, Typescript e NodeJS
+  - Magnect Person - Sistema espião para montadores e cobradores 
+
+### Kotlin
+  - [Shop Online](https://github.com/vicnuel/Shop) 
+
+### Delphi
+  - [Farma Nossa](https://github.com/vicnuel/FarmaNossa) - Sistema de Farmacia
+
+### JavaScript  
+  - Mousetrap - Sistema antifraude (feito com Electron)
+  - [Spokentext](https://github.com/vicnuel/SpokenText) - Transcritor de fala em tempo real para web
