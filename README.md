@@ -37,7 +37,7 @@
 
 ### Next.JS, Typescript e NodeJS
   - Magnect - Sistema de Prospecção
-  - Personas - CRM de candidatos e funcionários
+  - Personas - Sistemade RH/DHO de candidatos e funcionários
 
 ### React Native, Typescript e NodeJS
   - Magnect Person - Sistema espião para montadores e cobradores 
