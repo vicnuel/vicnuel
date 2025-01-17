@@ -16,7 +16,7 @@
 ## Projetos
 
 ### Next.JS, Typescript e NodeJS
-  - [Devstore] (https://github.com/vicnuel/devstore) - e-commerce 
+  - [Devstore](https://github.com/vicnuel/devstore) - e-commerce 
   - Magnect - Sistema de Prospecção
   - Personas - Sistema de RH/DHO de candidatos e funcionários
 
