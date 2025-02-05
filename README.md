@@ -15,8 +15,9 @@
 
 ## Projetos
 
-### Next.JS, Typescript e NodeJS
-  - [Devstore](https://github.com/vicnuel/devstore) - e-commerce 
+### Next.JS, Typescript,  NodeJS e Stripe
+  - [Devstore](https://github.com/vicnuel/devstore) - e-commerce
+  - [LivroSaaS](https://github.com/vicnuel/livrosaas) - Saas de livros com plano mensal de pagamento
   - Magnect - Sistema de Prospecção
   - Personas - Sistema de RH/DHO de candidatos e funcionários
 
