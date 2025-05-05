@@ -23,6 +23,7 @@
 
 ### React Native, Typescript e NodeJS
   - Magnect Person - Sistema espião para montadores e cobradores 
+  - [Na Minha Rota](https://play.google.com/store/apps/details?id=com.naminharota) - Aplicativos de Carona Colaborativas
 
 ### Kotlin
   - [Shop Online](https://github.com/vicnuel/Shop) 
