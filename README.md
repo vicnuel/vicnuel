@@ -36,7 +36,7 @@
 
 ### JavaScript  
   - Mousetrap - Sistema antifraude (feito com Electron)
-  - [Spokentext](https://github.com/vicnuel/SpokenText) - Transcritor de fala em tempo real para web
+  - [Spokentext](http://spokentext.vicnuel.com/) - Transcritor de fala em tempo real para web
 
 ### Python
  - [Modelo para detectar cancer de mama](https://github.com/vicnuels/cancer-de-mama-knn)
